@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RichProject"
 include ':app'
+include ':base'
